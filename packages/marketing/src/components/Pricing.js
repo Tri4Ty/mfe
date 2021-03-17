@@ -72,7 +72,7 @@ const useStyles = makeStyles((theme) => ({
 
 const tiers = [
   {
-    title: 'Free (sweet deal!)',
+    title: 'Free',
     price: '0',
     description: [
       '10 users included',
@@ -80,12 +80,12 @@ const tiers = [
       'Help center access',
       'Email support',
     ],
-    buttonText: 'Sign up for free today',
+    buttonText: 'Sign up for free',
     buttonVariant: 'outlined',
   },
   {
     title: 'Pro',
-    subheader: 'Most popular by far',
+    subheader: 'Most popular',
     price: '15',
     description: [
       '20 users included',
@@ -153,7 +153,7 @@ export default function Pricing() {
           color="textPrimary"
           gutterBottom
         >
-          Pricing!!!
+          Pricing
         </Typography>
         <Typography
           variant="h5"
