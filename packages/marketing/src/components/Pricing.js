@@ -153,7 +153,7 @@ export default function Pricing() {
           color="textPrimary"
           gutterBottom
         >
-          Pricing
+          Pricing!!!
         </Typography>
         <Typography
           variant="h5"
@@ -161,7 +161,7 @@ export default function Pricing() {
           color="textSecondary"
           component="p"
         >
-          Steve test Quickly build an effective pricing table for your potential customers
+          Quickly build an effective pricing table for your potential customers
           with this layout. It&apos;s built with default Material-UI components
           with little customization.
         </Typography>
