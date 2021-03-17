@@ -72,7 +72,7 @@ const useStyles = makeStyles((theme) => ({
 
 const tiers = [
   {
-    title: 'Free',
+    title: 'Free!!!!',
     price: '0',
     description: [
       '10 users included',
@@ -84,7 +84,7 @@ const tiers = [
     buttonVariant: 'outlined',
   },
   {
-    title: 'Pro',
+    title: 'Pro!!!!',
     subheader: 'Most popular',
     price: '15',
     description: [
@@ -97,7 +97,7 @@ const tiers = [
     buttonVariant: 'contained',
   },
   {
-    title: 'Enterprise',
+    title: 'Enterprise!!!!!',
     price: '30',
     description: [
       '50 users included',
