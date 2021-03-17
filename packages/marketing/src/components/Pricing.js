@@ -72,7 +72,7 @@ const useStyles = makeStyles((theme) => ({
 
 const tiers = [
   {
-    title: 'Free',
+    title: 'Free (sweet deal!)',
     price: '0',
     description: [
       '10 users included',
@@ -80,12 +80,12 @@ const tiers = [
       'Help center access',
       'Email support',
     ],
-    buttonText: 'Sign up for free',
+    buttonText: 'Sign up for free today',
     buttonVariant: 'outlined',
   },
   {
     title: 'Pro',
-    subheader: 'Most popular',
+    subheader: 'Most popular by far',
     price: '15',
     description: [
       '20 users included',
